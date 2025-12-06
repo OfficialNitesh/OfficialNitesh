@@ -65,17 +65,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialnitesh&show_icons=true&theme=transparent" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=officialnitesh&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=officialnitesh&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialnitesh&layout=compact&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=officialnitesh&theme=transparent" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### I build stuff
