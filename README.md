@@ -77,7 +77,7 @@
 
 ## 🧩 Featured Projects
 <p align="center">
-  <a href="https://github.com/officialnitesh/artenick_torch">
+  <a href="https://github.com/OfficialNitesh/AI-PROJECT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=officialnitesh&repo=artenick_torch&theme=dark&hide_border=true"/>
   </a>
 </p>
