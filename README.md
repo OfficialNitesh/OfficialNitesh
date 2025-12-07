@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nitesh</h1>
-<h3 align="center">I build things. Most days, I’m not sure why — but I keep going.</h3>
+<h3 align="center">I build stuff @Artenick</h3>
 
 <p align="center">
   <a href="https://github.com/officialnitesh">
@@ -12,12 +12,15 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **DSA in Java** & building clean, fast apps  
-- ⚡ Working on **Artenick Challenges** — my extreme discipline & focus project  
-- 💬 Ask me about **Java, DSA, Web Development**  
-- 🎯 Goal: Become a **strong backend engineer + problem-solver**  
-- 🧠 Obsessed with **tech, space, military discipline, and challenge design**  
+🌱 Currently learning DSA in Java & building clean, high-performance apps
 
+⚡ Creator of Artenick Challenges — a tech-driven discipline system I use to train focus, execution, and consistency
+
+💬 Ask me about Java, DSA, Web Development & System Design basics
+
+🎯 Goal: Become a strong backend engineer who writes scalable, reliable systems
+
+🧠 Passionate about technology, space, military grade discipline, and challenge engineering.
 ---
 
 ## 🌐 Connect with Me
