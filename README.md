@@ -1,81 +1,90 @@
-<!-- Profile Intro -->
-<h1 align="center">Hi, I'm Nitesh</h1>
-<h3 align="center">Developer • DSA in Java • Web Enthusiast from India 🇮🇳</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Nitesh</h1>
+<h3 align="center">I build things. Most days, I’m not sure why — but I keep going.</h3>
 
 <p align="center">
   <a href="https://github.com/officialnitesh">
-    <img src="https://komarev.com/ghpvc/?username=officialnitesh&label=Profile%20views&color=0e75b6&style=flat" alt="officialnitesh" />
+    <img src="https://komarev.com/ghpvc/?username=officialnitesh&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Data Structures & Algorithms in Java**
-- 💻 I like building **clean, simple projects** and improving my problem-solving skills  
-- 💬 Ask me about **Java, DSA, HTML**  
-- 🎯 Goal: Become a **strong backend + DSA** guy and crack good tech roles  
-- 📚 When I’m not coding, I’m probably reading about **tech, space or random startup ideas**  
+- 🌱 Currently learning **DSA in Java** & building clean, fast apps  
+- ⚡ Working on **Artenick Challenges** — my extreme discipline & focus project  
+- 💬 Ask me about **Java, DSA, Web Development**  
+- 🎯 Goal: Become a **strong backend engineer + problem-solver**  
+- 🧠 Obsessed with **tech, space, military discipline, and challenge design**  
 
 ---
 
-### 🤝 Connect with Me
-
-<p align="left">
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
+  </a>
   <a href="https://www.linkedin.com/in/real-nitesh/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Nitesh" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+  </a>
+  <a href="https://github.com/officialnitesh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=officialnitesh&show_icons=true&theme=dark&hide_border=true" height="150"/>
   &nbsp;&nbsp;
-  <!-- Add more socials later if you want -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialnitesh&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🔥 Contribution Breakdown
 
-<p align="left">
-  <!-- Core -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=officialnitesh&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-  <!-- Optional: uncomment these when you're comfortable -->
-  <!--
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=officialnitesh&theme=github_dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+## 🧩 Featured Projects
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialnitesh&show_icons=true&hide_border=true" />
+  <a href="https://github.com/officialnitesh/artenick_torch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officialnitesh&repo=artenick_torch&theme=dark&hide_border=true"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialnitesh&layout=compact&hide_border=true" />
-</p>
 ---
 
-### I build stuff
-<!-- Small Signature -->
+## ✨ A Small Note
+
 <p align="center">
-  Thanks for visiting my profile 🙌 <br/>
-  ⭐ Consider dropping a star on the repos you like!
+  If you're reading this — thank you.<br/>
+  ⭐ If you like my work, feel free to star my repositories.  
 </p>
+
