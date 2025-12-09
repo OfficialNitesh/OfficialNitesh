@@ -12,15 +12,16 @@
 
 ## 🚀 About Me
 
-🌱 Currently learning DSA in Java & building clean, high-performance apps
+🌱 Currently learning **DSA in Java** & building clean, high-performance apps  
 
-⚡ Creator of Artenick Challenges — a tech-driven discipline system I use to train focus, execution, and consistency
+⚡ Creator of **Artenick Challenges** — a tech-driven discipline system I use to train focus, execution, and consistency  
 
-💬 Ask me about Java, DSA, Web Development & System Design basics
+💬 Ask me about **Java, DSA, Web Development & System Design basics**  
 
-🎯 Goal: Become a strong backend engineer who writes scalable, reliable systems
+🎯 Goal: Become a **strong backend engineer** who writes scalable, reliable systems  
 
-🧠 Passionate about technology, space, military grade discipline, and challenge engineering.
+🧠 Passionate about **technology, space, military-grade discipline, and challenge engineering**  
+
 ---
 
 ## 🌐 Connect with Me
@@ -56,9 +57,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialnitesh&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=officialnitesh&show_icons=true&theme=dark&hide_border=true" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialnitesh&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialnitesh&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
 ---
@@ -66,7 +67,7 @@
 ## 🔥 Contribution Breakdown
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=officialnitesh&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=officialnitesh&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -77,7 +78,7 @@
 
 ## 🧩 Featured Projects
 <p align="center">
-  <a href="https://github.com/OfficialNitesh/AI-PROJECT">
+  <a href="https://github.com/officialnitesh/artenick_torch">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=officialnitesh&repo=artenick_torch&theme=dark&hide_border=true"/>
   </a>
 </p>
@@ -87,7 +88,4 @@
 ## ✨ A Small Note
 
 <p align="center">
-  If you're reading this — thank you.<br/>
-  ⭐ If you like my work, feel free to star my repositories.  
-</p>
-
+  If y
