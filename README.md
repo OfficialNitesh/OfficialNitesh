@@ -88,4 +88,6 @@
 ## ✨ A Small Note
 
 <p align="center">
-  If y
+  If you're reading this — thank you.<br/>
+  ⭐ If you like my work, feel free to star my repositories.  
+</p>
