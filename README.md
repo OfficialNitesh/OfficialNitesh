@@ -77,12 +77,12 @@ Mini backend engineering projects exploring concepts like caching, queues, API g
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=OfficialNitesh&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" 
+    src="https://github-readme-stats.vercel.app/api?username=OfficialNitesh&show_icons=true&theme=github_dark&hide_border=true" 
     height="165"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNitesh&layout=compact&theme=github_dark&hide_border=true&border_radius=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNitesh&layout=compact&theme=github_dark&hide_border=true" 
     height="165"
   />
 </p>
@@ -92,11 +92,15 @@ Mini backend engineering projects exploring concepts like caching, queues, API g
 ## Contribution Breakdown
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=officialnitesh&theme=dark&hide_border=true"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=OfficialNitesh&theme=github-dark&hide_border=true" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=officialnitesh&theme=github_dark"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OfficialNitesh&theme=github_dark" 
+  />
 </p>
 
 ---
