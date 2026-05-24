@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hey, I'm Nitesh </h1>
 <h3 align="center"> Developer • Problem Solver • Builder</h3>
-
+<h3 align="center"> Founder @Artenick & @ManageActly </h3>
 <p align="center">
   <a href="https://github.com/officialnitesh">
     <img src="https://komarev.com/ghpvc/?username=officialnitesh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
@@ -77,12 +77,12 @@ Mini backend engineering projects exploring concepts like caching, queues, API g
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=OfficialNitesh&show_icons=true&theme=github_dark&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=OfficialNitesh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
     height="165"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNitesh&layout=compact&theme=github_dark&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OfficialNitesh&layout=compact&theme=github_dark&hide_border=true" 
     height="165"
   />
 </p>
@@ -125,7 +125,7 @@ Mini backend engineering projects exploring concepts like caching, queues, API g
 
 ## A Small Note
 
-If you're reading this — thank you.
+If you're reading this... thank you.
 
 I'm always learning, building, and improving one step at a time.
 
