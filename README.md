@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hey, I'm Nitesh</h1>
-<h3 align="center">Backend Developer • Problem Solver • Builder</h3>
+<h1 align="center">Hey, I'm Nitesh </h1>
+<h3 align="center"> Developer • Problem Solver • Builder</h3>
 
 <p align="center">
   <a href="https://github.com/officialnitesh">
@@ -38,24 +38,38 @@ And much more...
 ## What I'm Currently Doing
 
 - Solving DSA problems in Java consistently  
-- Building backend-focused projects  
+- Building backend-focused applications  
 - Exploring scalable system design fundamentals  
-- Working on **Artenick Challenges** — a challenge-based discipline and execution system  
+- Working on **Artenick Challenges** — a challenge-driven execution system  
 - Improving development workflow, consistency, and engineering habits  
 
 ---
 
 ## Featured Projects
 
-### Artenick Torch
+### [Artenick Torch](https://github.com/officialnitesh/artenick_torch)
 
 A challenge-driven productivity and execution system focused on consistency, discipline, and structured progress tracking.
 
-<p>
-  <a href="https://github.com/officialnitesh/artenick_torch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officialnitesh&repo=artenick_torch&theme=dark&hide_border=true"/>
-  </a>
-</p>
+### [DSA Tracker](https://github.com/officialnitesh)
+
+A coding analytics platform for tracking solved problems, topic coverage, consistency, and long-term problem-solving growth.
+
+### [Real-Time Chat Application](https://github.com/officialnitesh)
+
+A scalable real-time communication system built using WebSockets with authentication and persistent messaging.
+
+### [ShortLink](https://github.com/officialnitesh)
+
+A production-style URL shortener with analytics, caching concepts, custom aliases, and rate-limiting support.
+
+### [Portfolio Website](https://github.com/officialnitesh)
+
+A minimal developer portfolio showcasing projects, technical growth, and backend engineering interests.
+
+### [System Design Experiments](https://github.com/officialnitesh)
+
+Mini backend engineering projects exploring concepts like caching, queues, API gateways, and scalable architectures.
 
 ---
 
