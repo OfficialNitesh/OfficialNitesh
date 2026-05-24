@@ -76,9 +76,15 @@ Mini backend engineering projects exploring concepts like caching, queues, API g
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialnitesh&show_icons=true&theme=dark&hide_border=true" height="160" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialnitesh&layout=compact&theme=dark&hide_border=true" height="160" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=OfficialNitesh&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" 
+    height="165"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNitesh&layout=compact&theme=github_dark&hide_border=true&border_radius=10" 
+    height="165"
+  />
 </p>
 
 ---
