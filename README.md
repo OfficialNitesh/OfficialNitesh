@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hey, I'm Nitesh </h1>
 <h3 align="center"> Developer • Problem Solver • Builder</h3>
-<h3 align="center"> Founder @Artenick & @ManageActly </h3>
+<h3 align="center"> Founder @Artenick || @ManageActly </h3>
 <p align="center">
   <a href="https://github.com/officialnitesh">
     <img src="https://komarev.com/ghpvc/?username=officialnitesh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
