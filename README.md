@@ -12,11 +12,11 @@
 
 ## About Me
 
-I'm Nitesh, a pre-final year student at NSUT focused on backend engineering, problem solving, and building systems that improve execution and productivity.
+I'm Nitesh, a pre final year student at NSUT focused on backend engineering, problem solving, and building systems that improve execution and productivity.
 
-I enjoy building scalable applications, experimenting with systems, and creating projects that combine discipline with technology.
+I enjoy building scalable applications, experimenting with systems, and creating real world projects.
 
-Software engineering has remained a strong interest of mine for years, and I'm constantly learning through projects, DSA, and real-world development.
+Software engineering has remained a strong interest of mine for years, and I'm constantly learning through projects, DSA, and real world development.
 
 ---
 
@@ -38,9 +38,8 @@ And much more...
 ## What I'm Currently Doing
 
 - Solving DSA problems in Java consistently  
-- Building backend-focused applications  
-- Exploring scalable system design fundamentals  
-- Working on **Artenick Challenges** — a challenge-driven execution system  
+- Building backend focused applications  
+- Exploring scalable system design fundamentals    
 - Improving development workflow, consistency, and engineering habits  
 
 ---
