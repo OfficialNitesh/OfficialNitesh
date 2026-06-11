@@ -8,7 +8,7 @@ Alongside development, I am building Artenick, a productivity-focused platform d
 [![Instagram](https://img.shields.io/badge/-@sky._.catch-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://instagram.com/sky._.catch)
 [![LinkedIn](https://img.shields.io/badge/-real--nitesh-0077B5?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/real-nitesh/)
 [![](https://komarev.com/ghpvc/?username=officialnitesh&label=Profile%20Views&color=0e75b6)](https://github.com/officialnitesh)
-[![](https://img.shields.io/github/followers/officialnitesh?label=GitHub%20Followers)](https://github.com/officialnitesh)
+![LinkedIn Followers](https://img.shields.io/badge/LinkedIn%20Followers-15K%2B-0077B5?style=flat&logo=linkedin&logoColor=white)
 
 ## Core Tech Stack
 
