@@ -48,11 +48,7 @@ WebSocket-powered messaging platform with authentication and persistent communic
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNitesh&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
-## Contribution Streak
 
-<p>
-<img src="https://streak-stats.demolab.com?user=OfficialNitesh&theme=github-dark&hide_border=true"/>
-</p>
 
 ## Contribution Timeline
 
