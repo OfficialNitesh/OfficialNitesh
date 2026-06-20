@@ -2,7 +2,7 @@
 
 Focused on software engineering, backend development, and building products that solve real world problems. Currently pursuing Electronics & Communication Engineering at NSUT while strengthening my expertise in Data Structures & Algorithms, scalable backend systems, and software architecture. I enjoy turning ideas into practical solutions through clean engineering, continuous learning, and consistent execution.
 
-Alongside development, I am building Artenick, a productivity focused platform designed around discipline and execution, and ManageActly, a social media management agency helping brands and businesses grow their digital presence. My interests extend beyond coding into product building, entrepreneurship, and creating systems that generate impact.
+Alongside development, I am building Artenick,a productivity focused platform designed around discipline and execution, and ManageActly, a social media management agency helping brands and businesses grow their digital presence. My interests extend beyond coding into product building, entrepreneurship, and creating systems that generate impact.
 
 [![Gmail](https://img.shields.io/badge/-nitesh.sose.hn@gmail.com-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:nitesh.sose.hn@gmail.com)
 [![Instagram](https://img.shields.io/badge/-@sky._.catch-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://instagram.com/sky._.catch)
